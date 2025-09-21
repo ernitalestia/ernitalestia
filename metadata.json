@@ -1,0 +1,5 @@
+{
+  "name": "Veo Prompt Generator",
+  "description": "An AI-powered application that analyzes a story text and generates a structured JSON prompt for the Gemini Veo video generation model, complete with detailed cinematographic and narrative elements.",
+  "requestFramePermissions": []
+}
